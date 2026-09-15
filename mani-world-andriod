@@ -1,0 +1,7 @@
+echo "# mani-world-andriod" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mani9710/mani-world-andriod.git
+git push -u origin main
